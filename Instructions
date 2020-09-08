@@ -1,0 +1,13 @@
+
+
+
+A) Download relevant catalogs
+
+Go to VizieR (https://vizier.u-strasbg.fr/viz-bin/VizieR)
+
+Search for relevant catalogs
+
+Query on http://tapvizier.u-strasbg.fr/adql/
+E.g. SELECT * FROM "J/A+A/606/A94/table1"
+
+B) 
